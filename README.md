@@ -1,7 +1,11 @@
-# Vue 3 + Vite
+# URL shortening API landing page demo;
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+https://url-shortening-api-landing.netlify.app/
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+![desktop-design](https://github.com/AlaskanCrab/URL-shortening-API-landing-page/assets/104378401/e3d9e898-d62c-4e28-8d89-2de3c1999c75)
+
+![mobile-design](https://github.com/AlaskanCrab/URL-shortening-API-landing-page/assets/104378401/108aaf3e-065c-4e29-97fa-e39eee50b94a)
+
+![mobile-navigation](https://github.com/AlaskanCrab/URL-shortening-API-landing-page/assets/104378401/b65650d6-85c4-4dc7-a7b2-f9f3ac952c42)
